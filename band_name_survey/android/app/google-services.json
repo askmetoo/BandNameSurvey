@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "6430116109",
+    "firebase_url": "https://bandnamesurvey-aeb2f.firebaseio.com",
+    "project_id": "bandnamesurvey-aeb2f",
+    "storage_bucket": "bandnamesurvey-aeb2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6430116109:android:716910694714a6dd9d0844",
+        "android_client_info": {
+          "package_name": "com.example.band_name_survey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6430116109-vb4gbg12c3qlrc8ddiaik29vshn8dr6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN7ZmMIDhsO5OW5mhrG3TdkhPkKG21VPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6430116109-vb4gbg12c3qlrc8ddiaik29vshn8dr6c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
